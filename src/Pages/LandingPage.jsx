@@ -248,7 +248,7 @@ const LandingPage = () => {
       <section id="Blog" className='Blog pt-32 pb-10 lg:max-w-screen-xl m-auto'>
         <div className=' px-5 md:px-20'>
           <h2 style={{ fontSize: "40px", fontWeight: "bold" }}>
-            Our Blog Stories
+            Our Blog Story
           </h2>
         </div>
         <section className="text-gray-600 body-font">
